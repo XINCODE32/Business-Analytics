@@ -99,15 +99,3 @@ Place these CSV files in the `./datasets/` directory:
 - **Jupyter Notebook**: EDA and visual storytelling
 - **Data Analysis Concepts**: Cohort analysis, retention curves, unit economics
 
----
-
-## 📁 Repository Structure
-
-📦 yandex-afisha-marketing-analysis
-├── datasets/
-│ ├── visits_log_us.csv
-│ ├── orders_log_us.csv
-│ └── costs_us.csv
-├── notebook/
-│ └── yandex_afisha_analysis.ipynb
-└── README.md
